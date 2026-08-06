@@ -1,3 +1,3 @@
 ---
-title: GitHub Learning
+title: Coursera Test – GitHub Learning
 ---
